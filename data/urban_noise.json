@@ -1,0 +1,47 @@
+[
+  {
+    "sound_source": "cargo_vessel",
+    "frequency_hz": 50,
+    "level_db": 85,
+    "location": "Puget Sound, Seattle Harbor",
+    "date_recorded": "2024-06-15T12:00:00",
+    "recording_duration_sec": 3600,
+    "data_source": "NOAA_NCEI"
+  },
+  {
+    "sound_source": "cargo_vessel",
+    "frequency_hz": 500,
+    "level_db": 95,
+    "location": "Puget Sound, Seattle Harbor",
+    "date_recorded": "2024-06-15T12:00:00",
+    "recording_duration_sec": 3600,
+    "data_source": "NOAA_NCEI"
+  },
+  {
+    "sound_source": "ferry",
+    "frequency_hz": 100,
+    "level_db": 88,
+    "location": "Puget Sound, Seattle Harbor",
+    "date_recorded": "2024-06-15T10:00:00",
+    "recording_duration_sec": 1800,
+    "data_source": "NOAA_NCEI"
+  },
+  {
+    "sound_source": "port_operations",
+    "frequency_hz": 200,
+    "level_db": 100,
+    "location": "Seattle Port",
+    "date_recorded": "2024-06-15T14:00:00",
+    "recording_duration_sec": 7200,
+    "data_source": "MBARI"
+  },
+  {
+    "sound_source": "construction",
+    "frequency_hz": 500,
+    "level_db": 105,
+    "location": "Ballard Bridge",
+    "date_recorded": "2024-06-14T09:00:00",
+    "recording_duration_sec": 3600,
+    "data_source": "NOAA_NCEI"
+  }
+]

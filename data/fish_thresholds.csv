@@ -1,0 +1,7 @@
+frequency_hz,amplitude_db_min,amplitude_db_max,threshold_db,ci_lower,ci_upper,n_trials,method,response_reliability,specimen_id
+55,85,150,100,95,105,100,AEP,0.85,1
+70,85,150,102,97,107,100,AEP,0.87,1
+100,85,150,98,93,103,100,AEP,0.89,1
+220,85,150,95,90,100,100,AEP,0.86,1
+330,85,150,105,100,110,100,AEP,0.82,1
+440,85,150,108,103,113,100,AEP,0.80,1
